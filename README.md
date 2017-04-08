@@ -5,11 +5,11 @@ PHP Remote shell access to linux servers/desktops
 
 Usage:
 
-> Server Side
+Server Side
   Download files in /serverSide to your linux machine.
   Use "php server.php" to start the server
   
-> Client Side
+Client Side
   Download all files in /clientSide to your machine
   (If you're using xampp) move all files to htdocs
   Access index.php through your browser
